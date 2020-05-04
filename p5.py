@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 print ("BIENVENIDO A EMPAREJANDO.COM\n")
 
 print("Necesitamos conocer algunos datos sobre ti para encontrar tu pareja ideal")
